@@ -1,3 +1,6 @@
 $primary: #f7941e !default;
 @import 'node_modules/bootstrap/scss/bootstrap';
 @import 'node_modules/bootstrap-vue/src/index.scss';
+* {
+    font-family: 'Lato', sans-serif;
+}

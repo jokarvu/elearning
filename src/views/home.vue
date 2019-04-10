@@ -18,14 +18,13 @@
     >
       <!-- Text slides with image -->
       <b-carousel-slide
-        caption="First slide"
-        text="Nulla vitae elit libero, a pharetra augue mollis interdum."
+        caption="Dreams are today's answers to tomorrow's questions."
         img-src="https://via.placeholder.com/1905x450"
       ></b-carousel-slide>
 
       <!-- Slides with custom text -->
       <b-carousel-slide img-src="https://via.placeholder.com/1905x450">
-        <h1>Hello world!</h1>
+        <h1>A dream you dream alone is only a dream. A dream you dream together is reality.</h1>
       </b-carousel-slide>
 
       <!-- Slides with image only -->

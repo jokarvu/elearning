@@ -7,7 +7,7 @@
             </b-col>
             <b-col md="6" sm="4" cols="2" class="text-top-fix text-right">
                 <fas icon="sign-out-alt"/>
-                <a href="" class="pl-2 pr-2">Login</a>
+                <a href="/login.html" class="pl-2 pr-2">Login</a>
             </b-col>
         </b-row>
     </b-col>
@@ -20,10 +20,10 @@
 
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav>
-          <b-nav-item href="#">Study</b-nav-item>
-          <b-nav-item href="#">Teacher</b-nav-item>
-          <b-nav-item href="#">About</b-nav-item>
-          <b-nav-item href="#">Contact</b-nav-item>
+          <b-nav-item href="https://canvas.ptitn.cf">Study</b-nav-item>
+          <b-nav-item href="/news.html">News</b-nav-item>
+          <b-nav-item href="/about.html">About</b-nav-item>
+          <b-nav-item href="/contact.html">Contact</b-nav-item>
         </b-navbar-nav>
 
         <!-- Right aligned nav items -->
