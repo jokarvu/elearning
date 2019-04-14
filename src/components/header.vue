@@ -6,7 +6,7 @@
                 <p class="text-top-fix">Post & Telecommuniaction Institute of Technology</p>
             </b-col>
             <b-col md="6" sm="4" cols="2" class="text-top-fix text-right">
-                <fas icon="sign-out-alt"/>
+                <fasw icon="sign-out-alt"/>
                 <a href="https://canvas.ptitv.ga" class="pl-2 pr-2">Login</a>
             </b-col>
         </b-row>

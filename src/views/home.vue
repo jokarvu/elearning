@@ -19,7 +19,7 @@
       <!-- Text slides with image -->
       <b-carousel-slide
         caption="Dreams are today's answers to tomorrow's questions."
-        img-src="https://via.placeholder.com/1905x450"
+        img-src="/img/bg1.png"
       ></b-carousel-slide>
 
       <!-- Slides with custom text -->
@@ -265,6 +265,11 @@ export default {
 .img-card-custom {
     img {
         max-height: 225px;
+    }
+}
+#carousel-1 {
+    img {
+        height: 450px!important;
     }
 }
 </style>

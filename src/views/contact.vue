@@ -9,57 +9,57 @@
                 <b-col md="12" lg="4" sm="12" class="mt-2 mb-2 wow bounceInLeft">
                     <b-list-group class="text-left">
                         <b-list-group-item variant="primary" class="d-flex align-items-center">
-                            <fas icon="map-marked" class="mr-4"/> Trụ Sở
+                            <fasw icon="map-marked" class="mr-4"/> Trụ Sở
                         </b-list-group-item>
 
                         <b-list-group-item class="d-flex align-items-center">
-                            <fas icon="home" class="mr-4"/> 122 Hoàng Quốc Việt, Q.Cầu Giấy, Hà Nội.
+                            <fasw icon="home" class="mr-4"/> 122 Hoàng Quốc Việt, Q.Cầu Giấy, Hà Nội.
                         </b-list-group-item>
 
                         <b-list-group-item class="d-flex align-items-center">
-                            <fas icon="phone" class="mr-4"/> 04. 33525742
+                            <fasw icon="phone" class="mr-4"/> 04. 33525742
                         </b-list-group-item>
 
                         <b-list-group-item class="d-flex align-items-center">
-                            <fas icon="envelope" class="mr-4"/> multimedia@ptit.edu.vn
+                            <fasw icon="envelope" class="mr-4"/> multimedia@ptit.edu.vn
                         </b-list-group-item>
                     </b-list-group>
                 </b-col>
                 <b-col md="12" lg="4" sm="12" class="mt-2 mb-2 wow bounceInUp">
                     <b-list-group class="text-left">
                         <b-list-group-item variant="primary" class="d-flex align-items-center">
-                            <fas icon="map-marked" class="mr-4"/> Hà Nội
+                            <fasw icon="map-marked" class="mr-4"/> Hà Nội
                         </b-list-group-item>
 
                         <b-list-group-item class="d-flex align-items-center">
-                            <fas icon="home" class="mr-4"/> Km10, Đường Nguyễn Trãi, Q.Hà Đông, Hà Nội
+                            <fasw icon="home" class="mr-4"/> Km10, Đường Nguyễn Trãi, Q.Hà Đông, Hà Nội
                         </b-list-group-item>
 
                         <b-list-group-item class="d-flex align-items-center">
-                            <fas icon="phone" class="mr-4"/> 04. 33525742
+                            <fasw icon="phone" class="mr-4"/> 04. 33525742
                         </b-list-group-item>
 
                         <b-list-group-item class="d-flex align-items-center">
-                            <fas icon="envelope" class="mr-4"/> multimedia@ptit.edu.vn
+                            <fasw icon="envelope" class="mr-4"/> multimedia@ptit.edu.vn
                         </b-list-group-item>
                     </b-list-group>
                 </b-col>
                 <b-col md="12" lg="4" sm="12" class="mt-2 mb-2 wow bounceInRight">
                     <b-list-group class="text-left">
                         <b-list-group-item variant="primary" class="d-flex align-items-center">
-                            <fas icon="map-marked" class="mr-4"/> TP Hồ Chí Minh
+                            <fasw icon="map-marked" class="mr-4"/> TP Hồ Chí Minh
                         </b-list-group-item>
 
                         <b-list-group-item class="d-flex align-items-center">
-                            <fas icon="home" class="mr-4"/> Đường Man Thiện, P. Hiệp Phú, Q.9 TP Hồ Chí Minh
+                            <fasw icon="home" class="mr-4"/> Đường Man Thiện, P. Hiệp Phú, Q.9 TP Hồ Chí Minh
                         </b-list-group-item>
 
                         <b-list-group-item class="d-flex align-items-center">
-                            <fas icon="phone" class="mr-4"/> 04. 33525742
+                            <fasw icon="phone" class="mr-4"/> 04. 33525742
                         </b-list-group-item>
 
                         <b-list-group-item class="d-flex align-items-center">
-                            <fas icon="envelope" class="mr-4"/> multimedia@ptit.edu.vn
+                            <fasw icon="envelope" class="mr-4"/> multimedia@ptit.edu.vn
                         </b-list-group-item>
                     </b-list-group>
                 </b-col>

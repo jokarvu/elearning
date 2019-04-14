@@ -24,10 +24,10 @@
             <p style="color: white; font-size: 28px;font-style: italic;margin-bottom: 30px">" We’ll show you what to learn "</p>
             <a href="/index.html" class="text-white btn btn-info p-3">GET START</a>
             <p class="icon-header">
-                <fas icon="camera-retro"/>
-                <fas icon="video"/>
-                <fas icon="gamepad"/>
-                <fas icon="palette"/>
+                <fasw icon="camera-retro"/>
+                <fasw icon="video"/>
+                <fasw icon="gamepad"/>
+                <fasw icon="palette"/>
             </p>
         </div>
     </b-container>
