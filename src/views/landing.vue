@@ -22,7 +22,9 @@
             <h2 style="color: white; font-size: 56px;font-weight: bold;padding-bottom: 20px;" class="wow rubberBand">WELCOME</h2>
             <h1 style="color: white; font-size: 30px; font-weight: bold; ">MULTIMEDIA</h1>
             <p style="color: white; font-size: 28px;font-style: italic;margin-bottom: 30px">" We’ll show you what to learn "</p>
-            <router-link to="/index.html" class="btn btn-info">GET START</router-link>
+            <button class="btn btn-info">
+                <a href="/index.html" class="text-white">GET START</a>
+            </button>
             <p class="icon-header">
                 <fas icon="camera-retro"/>
                 <fas icon="video"/>
@@ -34,7 +36,9 @@
 </template>
 <script>
 export default {
-    
+    mounted () {
+        $('body').css('overflow', 'hidden');
+    }
 }
 </script>
 
@@ -43,6 +47,9 @@ export default {
     max-height: 100vh;
     height: 100vh;
     background: linear-gradient(to right, #F9D423, #FF4E50);
+    a {
+        text-decoration: none;
+    }
 }
 #landing-header {
     text-align: center;

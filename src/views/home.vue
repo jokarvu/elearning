@@ -38,7 +38,7 @@
             <b-row>
                 <b-col sm="12" md="6" lg="4" cols="12" class="mb-4 wow bounceInLeft">
                     <b-card title="Graphic Design 2D/3D"
-                        img-src="/img/1.jpg"
+                        img-src="/img/1.png"
                         img-top
                         tag="article"
                         class="h-100 mb-2"
@@ -53,7 +53,7 @@
                 </b-col>
                 <b-col sm="12" md="6" lg="4" cols="12" class="mb-4 wow bounceInUp">
                     <b-card title="Cartoon Design"
-                    img-src="/img/2.jpg"
+                    img-src="/img/2.png"
                     img-top
                     tag="article"
                     class="mb-2 h-100"
@@ -68,7 +68,7 @@
                 </b-col>
                 <b-col sm="12" md="6" lg="4" cols="12" class="mb-4 wow bounceInRight">
                     <b-card title="Game Design"
-                    img-src="/img/3.jpg"
+                    img-src="/img/3.png"
                     img-top
                     tag="article"
                     class="mb-2 h-100"
@@ -83,7 +83,7 @@
                 </b-col>
                 <b-col sm="12" md="6" lg="4" cols="12" class="mb-4 wow bounceInLeft">
                     <b-card title="Web Design"
-                    img-src="/img/4.jpg"
+                    img-src="/img/4.png"
                     img-top
                     tag="article"
                     class="mb-2 h-100"
@@ -98,7 +98,7 @@
                 </b-col>
                 <b-col sm="12" md="6" lg="4" cols="12" class="mb-4 wow bounceInUp">
                     <b-card title="R&D Product Design"
-                    img-src="/img/5.jpg"
+                    img-src="/img/5.png"
                     img-top
                     tag="article"
                     class="mb-2 h-100"
@@ -113,7 +113,7 @@
                 </b-col>
                 <b-col sm="12" md="6" lg="4" cols="12" class="mb-4 wow bounceInRight">
                     <b-card title="Advertising Design"
-                    img-src="/img/6.jpg"
+                    img-src="/img/6.png"
                     img-top
                     tag="article"
                     class="mb-2 h-100"
@@ -261,6 +261,11 @@ export default {
 }
 .btn-rounded {
     border-radius: 50px!important;
+}
+.img-card-custom {
+    img {
+        max-height: 225px;
+    }
 }
 </style>
 
