@@ -22,9 +22,7 @@
             <h2 style="color: white; font-size: 56px;font-weight: bold;padding-bottom: 20px;" class="wow rubberBand">WELCOME</h2>
             <h1 style="color: white; font-size: 30px; font-weight: bold; ">MULTIMEDIA</h1>
             <p style="color: white; font-size: 28px;font-style: italic;margin-bottom: 30px">" We’ll show you what to learn "</p>
-            <button class="btn btn-info">
-                <a href="/index.html" class="text-white">GET START</a>
-            </button>
+            <a href="/index.html" class="text-white btn btn-info p-3">GET START</a>
             <p class="icon-header">
                 <fas icon="camera-retro"/>
                 <fas icon="video"/>
