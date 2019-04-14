@@ -13,14 +13,15 @@
     </b-col>
     <b-navbar toggleable="lg" type="light" class="wow bounceInLeft">
       <b-navbar-brand href="#">
-          <img src="@/assets/img/logo.png" height="40px" alt="">
+          <img src="@/assets/img/logo.png" height="50px" alt="">
       </b-navbar-brand>
 
       <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav>
-          <b-nav-item href="https://canvas.ptitn.cf">Study</b-nav-item>
+          <b-nav-item href="/index.html">Home</b-nav-item>
+          <b-nav-item href="https://canvas.ptitv.ga">Study</b-nav-item>
           <b-nav-item href="/news.html">News</b-nav-item>
           <b-nav-item href="/about.html">About</b-nav-item>
           <b-nav-item href="/contact.html">Contact</b-nav-item>
@@ -54,5 +55,11 @@
         margin-bottom: 0;
         line-height: 40px;
     }
+}
+nav {
+  line-height: 55px!important;
+  .nav-link {
+    font-size: 1.2rem;
+  }
 }
 </style>

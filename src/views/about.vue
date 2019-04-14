@@ -4,10 +4,10 @@
         <b-jumbotron header="About" class="text-center wow bounceInUp" id="contact-header"></b-jumbotron>
         <b-container id="about">
             <b-card no-body>
-                <b-tabs pills card vertical nav-wrapper-class="col-md-4">
-                    <b-tab title="History" active>
-                        <b-card-text>
-                            <h3>History</h3>
+                <b-tabs pills card vertical nav-wrapper-class="col-md-4 wow bounceInLeft">
+                    <b-tab title="History" active class="wow bounceInLeft">
+                        <b-card-text class="wow bounceInRight">
+                            <h3 class="wow bounceInLeft">History</h3>
                             <p class="card-text-custom">
                                 Viện công nghệ Thông tin và Truyền thông CDIT, trước đây là Trung tâm Công nghệ thông tin CDIT, được Tổng giám đốc Tổng Công ty Bưu chính Viễn thông Việt Nam (VNPT) ký quyết định thành lập số 636/QĐ-TCCB-LĐ ngày 22 tháng 3 năm 1999, trên cơ sở sắp xếp lại hai đơn vị thành viên của các đơn vị trực thuộc Học viện Công nghệ Bưu chính Viễn thông:
                                 <br>- Trung tâm Nghiên cứu Phát triển Phần mềm, thuộc Viện KHKT Bưu điện
@@ -20,18 +20,18 @@
                         </b-card-text>
                     </b-tab>
                     <b-tab title="Mission & Vision">
-                        <h3>Mission</h3>
-                        <b-card-text>
+                        <h3 class="wow bounceInLeft">Mission</h3>
+                        <b-card-text class="wow bounceInRight">
                             Sứ mạng của Học viện Công nghệ Bưu chính Viễn thông là sáng tạo và chuyển giao tri thức cho xã hội thông qua việc gắn kết các hoạt động giáo dục – đào tạo nguồn nhân lực chất lượng cao, nghiên cứu phát triển và chuyển giao khoa học công nghệ, tri thức mới trong lĩnh vực thông tin và truyền thông đáp ứng thực tiễn phát triển và hội nhập quốc tế của đất nước.
                         </b-card-text>
-                        <h3>Vission</h3>
-                        <b-card-text>
+                        <h3 class="wow bounceInLeft">Vission</h3>
+                        <b-card-text class="wow bounceInRight">
                             Đến năm 2030, Học viện trở thành tổ chức giáo dục – đào tạo, nghiên cứu có tính cạnh tranh, hội nhập quốc tế cao và nằm trong nhóm 20 trường đại học đứng đầu về chất lượng giáo dục – đào tạo và năng suất nghiên cứu khoa học của Việt Nam.
                         </b-card-text>
                     </b-tab>
                     <b-tab title="President's message">
-                        <h3>President's message</h3>
-                        <b-card-text>
+                        <h3 class="wow bounceInLeft">President's message</h3>
+                        <b-card-text class="wow bounceInRight">
                             Học viện Công nghệ Bưu chính Viễn thông – trường đại học công lập trực thuộc Bộ Thông tin & Truyền thông thực hiện sứ mạng Nghiên cứu khoa học, Đào tạo phát triển nguồn nhân lực chất lượng cao trong lĩnh vực Thông tin và Truyền thông với mục tiêu <b>“Xây dựng Học viện Công nghệ Bưu chính Viễn thông trở thành trường Đại học trọng điểm quốc gia trong lĩnh vực Thông tin và Truyền thông tại Việt Nam”</b>.<br>
                             Để đạt được mục tiêu trên, chúng ta sẽ không ngừng nâng cao chất lượng, mở rộng quy mô nghiên cứu và đào tạo, tăng cường hợp tác với các cơ quan tổ chức, cá nhân trong và ngoài nước góp phần đào tạo nên những giá trị tri thức mới của Việt Nam, với đội ngũ chuyên nghiệp tâm huyết, đủ bản lĩnh và năng lực hội nhập quốc tế.
                         </b-card-text>

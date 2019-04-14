@@ -19,6 +19,9 @@ import BootstrapVue from 'bootstrap-vue'
 Vue.use(BootstrapVue)
 import '@/scss/custom.scss'
 
+import VueParticles from 'vue-particles'
+Vue.use(VueParticles)
+
 Vue.config.productionTip = false
 
 new Vue({

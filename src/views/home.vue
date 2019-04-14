@@ -131,10 +131,10 @@
     </b-container>
 
     <b-col md="12" id="counter" class="text-center text-white mt-4 mb-4">
-        <h2>Students have studied</h2>
-        <h1 class="counter">1000</h1>
-        <h1>Join us and make your dream</h1>
-        <b-button variant="info">GET START</b-button>
+        <h2 class="pt-3 pb-3">Students have studied</h2>
+        <h1 class="counter pt-2 pb-2">1000</h1>
+        <h1 class="pt-3 pb-3">Join us and make your dream</h1>
+        <b-button variant="info" class="mt-3 mb-3 px-5 py-3 btn-rounded">GET START</b-button>
     </b-col>
 
     <b-container>
@@ -251,13 +251,16 @@ export default {
     border: none!important;
 }
 #counter {
-    padding: 50px 0;
+    padding: 100px 0;
     background-image: url('/img/img1.gif');
     background-repeat: no-repeat;
     background-size: cover;
 }
 .teacher-card {
     border: none!important;
+}
+.btn-rounded {
+    border-radius: 50px!important;
 }
 </style>
 

@@ -2,6 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 
 import Login from './views/login'
+import Landing from './views/landing'
 import Home from './views/home'
 import Contact from './views/contact'
 import About from './views/about'
@@ -10,6 +11,10 @@ import News from './views/news'
 Vue.use(Router)
 
 const routes = [
+    {
+        path: '/',
+        component: Landing
+    },
     {
         path: '/login.html',
         component: Login
