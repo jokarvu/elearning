@@ -23,12 +23,12 @@
       ></b-carousel-slide>
 
       <!-- Slides with custom text -->
-      <b-carousel-slide img-src="/img/bg2.png">
+      <b-carousel-slide img-src="/img/bg2.png" img-height="450xp">
         <h1>A dream you dream alone is only a dream. A dream you dream together is reality.</h1>
       </b-carousel-slide>
 
       <!-- Slides with image only -->
-      <b-carousel-slide img-src="/img/bg3.jpg"></b-carousel-slide>
+      <b-carousel-slide img-src="/img/bg3.jpg" img-height="450px"></b-carousel-slide>
     </b-carousel>
 
     <!-- Main content -->
