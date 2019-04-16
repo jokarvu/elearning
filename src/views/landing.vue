@@ -49,11 +49,13 @@ export default {
         text-decoration: none;
     }
 }
-#landing-header {
-    text-align: center;
-    position: absolute;
-    top: 30%;
-    left: 40%;
+@media screen and (min-width: 768px) {
+    #landing-header {
+        text-align: center;
+        position: absolute;
+        top: 30%;
+        left: 40%;
+    }
 }
 .icon-header {
     font-size: 5rem;
