@@ -45,7 +45,7 @@
                 </b-col>
             </b-row>
         </b-col>
-        <div class="skype-button bubble" data-contact-id="live:xpeke.shin"></div>
+        <div class="skype-button bubble" data-contact-id="live:vuhoanghiep_3"></div>
     </div>
 </template>
 <style lang="scss">
